@@ -1,7 +1,5 @@
 # BÁO CÁO CÁ NHÂN: HỆ THỐNG PHÒNG THỦ AI CHUYÊN SÂU
 **Học viên:** Khương Hải Lâm
-**Khóa học:** AICB-P1 — Phát triển AI Agent  
-**Bài tập:** Số 11 — Xây dựng Pipeline Defense-in-Depth
 
 ---
 
